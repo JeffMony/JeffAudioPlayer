@@ -83,3 +83,13 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+.idea
+
+crash
+
+parse_asan_crash.py
+
+parse_crash.py
+
+addrline_tools.sh

@@ -1,0 +1,3 @@
+rootProject.name = "JeffAudioPlayer"
+include ':app'
+include ':audiolibrary'
