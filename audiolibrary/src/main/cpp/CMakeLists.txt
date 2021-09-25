@@ -69,9 +69,6 @@ target_link_libraries(
         ltpffmpeg
 )
 
-#target_compile_options(ltpaudio PUBLIC -fsanitize=address -fno-omit-frame-pointer)
-#set_target_properties(ltpaudio PROPERTIES LINK_FLAGS -fsanitize=address)
-
 
 
 
